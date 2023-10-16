@@ -1,3 +1,7 @@
 Hello
 new changes
+<<<<<<< HEAD
 login
+=======
+logon
+>>>>>>> feature
